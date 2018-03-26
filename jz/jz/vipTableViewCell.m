@@ -1,3 +1,4 @@
+
 //
 //  vipTableViewCell.m
 //  jz
@@ -12,7 +13,7 @@
 
 - (void)awakeFromNib {
     [super awakeFromNib];
-    // Initialization code
+    NSLog(@"jiuo");
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {

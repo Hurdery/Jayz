@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A097525320690F150044C4EF /* vipTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A097525220690F150044C4EF /* vipTableViewCell.m */; };
 		A0A1E03C2065086900B15CBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A1E03B2065086900B15CBD /* main.m */; };
 		A0A1E03F2065086900B15CBD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A1E03E2065086900B15CBD /* AppDelegate.m */; };
 		A0A1E0422065086900B15CBD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A1E0412065086900B15CBD /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A097525120690F150044C4EF /* vipTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vipTableViewCell.h; sourceTree = "<group>"; };
+		A097525220690F150044C4EF /* vipTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = vipTableViewCell.m; sourceTree = "<group>"; };
 		A0A1E0372065086900B15CBD /* jz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = jz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0A1E03B2065086900B15CBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A0A1E03D2065086900B15CBD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				A0A1E03E2065086900B15CBD /* AppDelegate.m */,
 				A0A1E0402065086900B15CBD /* ViewController.h */,
 				A0A1E0412065086900B15CBD /* ViewController.m */,
+				A097525120690F150044C4EF /* vipTableViewCell.h */,
+				A097525220690F150044C4EF /* vipTableViewCell.m */,
 				A0A1E0432065086900B15CBD /* Main.storyboard */,
 				A0A1E0462065086900B15CBD /* Assets.xcassets */,
 				A0A1E0482065086900B15CBD /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				A0A1E0422065086900B15CBD /* ViewController.m in Sources */,
 				A0A1E03F2065086900B15CBD /* AppDelegate.m in Sources */,
 				A0A1E03C2065086900B15CBD /* main.m in Sources */,
+				A097525320690F150044C4EF /* vipTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +317,7 @@
 				A0A1E0502065086900B15CBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
